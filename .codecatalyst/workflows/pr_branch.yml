@@ -16,7 +16,7 @@ Actions:
     Environment:
       Connections:
         - Role: PR-Branch-Infrastructure
-          Name: "123456789012" # Replace with your AWS Account ID here.
+          Name: "111122223333" # Replace with your AWS Account ID here.
       Name: MainAccount
     Configuration: 
       Steps:
